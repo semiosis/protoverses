@@ -1,0 +1,11 @@
+* Protoverses
+This is a free and open-source (FOSS) curation of protoverses that can be
+used for chatbots.
+
+| License | Discord server invite         |
+|---------+-------------------------------|
+| =GPL-3= | https://discord.gg/JwKGbAdNHR |
+
+See the =protoverses= repo for detailed documentation.
+
+http://github.com/semiosis/protoverses
