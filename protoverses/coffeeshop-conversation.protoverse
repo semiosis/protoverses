@@ -29,4 +29,4 @@ dni:
 # description will default to <description> which will get its value from dni
 description: ~
 
-intro: "This is an excert from The Mad-Tea-party, a chapter from Alice in Wonderland."
+intro: "This is the conversation that ensued at <venue>."
