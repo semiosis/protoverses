@@ -10,11 +10,10 @@ venue: ~
 # encapulate the load with variable scope for the protoverse keys
 
 el: |-
-(defun get-venue-name()
- (if (sor venue)
- (concat "an awesome coffee shop named" venue)
- (concat "an awesome coffee shop")
- ))
+  (defun get-venue-name()
+    (if (sor venue)
+        (concat "an awesome coffee shop named" venue)
+      (concat "an awesome coffee shop")))
 
 dni:
 - task: "Write a bio about <(get-venue-name)"
